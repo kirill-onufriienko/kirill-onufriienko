@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Building practical Python and SQL projects for data automation and reporting
 ----------------------------------------------------------------------------
 
-I'm a master's student at TUKE with hands-on experience in Python, SQL, data processing, and automation. I build practical projects focused on ETL-style workflows, data validation, reporting, and backend fundamentals. I'm interested in improving data quality, automating repetitive processes, and creating clear analytical outputs from raw data. At the moment, I'm developing my skills in PostgreSQL, APIs, FastAPI, and data pipeline design.
+I'm a master's student at TUKE focused on Python, SQL, data processing, and automation.
+I build practical projects around ETL-style workflows, data validation, reporting, and backend fundamentals.
+Right now, I'm improving my skills in PostgreSQL, APIs, FastAPI, and data pipeline design.
 
 * 🌍  I'm based in Košice, Slovakia
 * ✉️  You can contact me at [k.onyfr79@gmail.com](mailto:k.onyfr79@gmail.com)
